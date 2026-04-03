@@ -7,8 +7,8 @@ It generates **2 passwords** of 15 characters long, consisting of all characters
 
 ## The Interface
 
-![Before clicking the generate password button](images/screenshot1.png)  
-![After clicking the generate password button](images/screenshot2.png)
+![Before clicking the generate password button](images/Screenshot1.png)  
+![After clicking the generate password button](images/Screenshot2.png)
 
 ---
 
